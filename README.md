@@ -16,8 +16,6 @@ Designed a full banking system with 30+ tables, realistic sample data, and compl
 - Designed stored procedures and triggers
 - Implemented "ON DELETE CASCADE" and "NO ACTION" constraints
 
-## Sample
-(Include a small screenshot if you want — ERD, sample queries, etc.)
 
 ## How to Run
 - Open the SQL file in SSMS
